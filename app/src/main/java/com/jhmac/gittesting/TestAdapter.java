@@ -9,6 +9,8 @@ import android.widget.BaseAdapter;
  */
 
 public class TestAdapter extends BaseAdapter {
+
+
     @Override
     public int getCount() {
         return 0;
