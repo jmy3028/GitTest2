@@ -22,4 +22,9 @@ public class TestFragment extends Fragment {
     public void onStop() {
         super.onStop();
     }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+    }
 }
